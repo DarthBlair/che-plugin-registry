@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: custom
 name: nocdn
-version: '0.02'
+version: "0.02"
 type: Theia plugin
 displayName: NOCDN for all Workspaces
 title: NOCDN for all Workspaces
