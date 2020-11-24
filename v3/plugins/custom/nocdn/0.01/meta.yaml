@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: custom
+name: nocdn
+version: 0.01
+type: Theia plugin
+displayName: NOCDN for all Workspaces
+title: NOCDN for all Workspaces
+description: Set ENV Variable NOCDN for all Workspaces
+firstPublicationDate: '2020-11-23'
+category: Other
+spec:
+  workspaceEnv:        # optional; env vars for the workspace
+    - name: NOCDN
+      value: "true"
+
