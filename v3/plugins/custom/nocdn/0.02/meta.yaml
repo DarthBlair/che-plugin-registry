@@ -2,10 +2,12 @@ apiVersion: v2
 publisher: custom
 name: nocdn
 version: 0.02
-# type: Theia plugin
+type: Theia plugin
 displayName: NOCDN for all Workspaces
 title: NOCDN for all Workspaces
 description: Set ENV Variable NOCDN for all Workspaces
+icon: https://raw.githubusercontent.com/theia-ide/theia/master/logo/theia-logo-no-text-black.svg?sanitize=true
+repository: https://github.com/darthblair/
 firstPublicationDate: '2020-11-23'
 category: Other
 spec:
