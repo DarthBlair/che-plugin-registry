@@ -1,5 +1,5 @@
 apiVersion: v2
-publisher: drv
+publisher: custom
 name: nocdn
 version: 0.01
 #type: Theia plugin
