@@ -1,7 +1,7 @@
 apiVersion: v2
 publisher: custom
 name: nocdn
-version: 0.01
+version: "0.01"
 type: Che Editor
 displayName: NOCDN for all Workspaces
 title: NOCDN for all Workspaces
